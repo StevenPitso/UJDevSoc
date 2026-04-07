@@ -40,6 +40,13 @@
     font-size: 1.4rem;
     color: #1a1a1a;
     letter-spacing: -1px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.logo-img{
+    height: 50px;
 }
 
 .nav-links a:hover { color: var(--ujds-orange-typ-I); }
