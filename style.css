@@ -29,7 +29,6 @@ body{
 }
 
 /*Hero Section*/
-
 .hero-section{
     display: flex;
     align-items: center;
@@ -40,6 +39,7 @@ body{
     background-color: var(--main-background);
     position: relative;
 }
+
 .hero-contents{
     display:flex;
     align-items: center;
@@ -187,6 +187,7 @@ body{
 }
 
 .OUR { color: white; }
+.OUR-DARK { color: #1a1a1a; }
 .MISSION { 
     color: var(--ujds-orange-typ-I); 
     text-decoration: underline;
@@ -418,6 +419,7 @@ body{
 }
 
 .footer-logo-side h2 { font-size: 2rem; font-weight: 900; margin-bottom: 1rem; }
+
 .social-links {
     display: flex;
     gap: 20px;
@@ -446,7 +448,7 @@ body{
 /* Leadership Section */
 .leadership-section {
     padding: 6rem 2rem;
-    background: #273036;
+    background: #ffffff;
     text-align: center;
 }
 
@@ -459,7 +461,7 @@ body{
 }
 
 .leader-card {
-    background: #1a2227;
+    background: #f9f9f9;
     border-radius: 16px;
     padding: 2rem;
     width: 220px;
@@ -486,7 +488,7 @@ body{
 }
 
 .leader-name {
-    color: white;
+    color: #1a1a1a;
     font-size: 1.1rem;
     font-weight: 700;
     margin-bottom: 0.3rem;
@@ -500,12 +502,12 @@ body{
 }
 
 .leader-degree {
-    color: #999;
+    color: #555;
     font-size: 0.85rem;
     margin-bottom: 0.2rem;
 }
 
 .leader-year {
-    color: #999;
+    color: #555;
     font-size: 0.85rem;
 }
