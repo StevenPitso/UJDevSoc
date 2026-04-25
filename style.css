@@ -638,3 +638,20 @@ body {
     color: #555;
     font-size: 0.85rem;
 }
+
+/* Project Button */
+.project-btn {
+    display: inline-block;
+    background: white;
+    color: #000000;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: 0.3s;
+    border: 2px solid rgb(253, 125, 12);
+}
+
+
