@@ -404,7 +404,7 @@ body {
 }
 
 .pointerEmoji:hover {
-    /* Using a  timing function makes it feel more "springy" */
+    /* Using a  timing function makes it feel  more "springy" */
     animation: bounce 0.6s infinite alternate;
 }
 
